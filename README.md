@@ -6,6 +6,6 @@ Perfect for sharing a special message in a fun and interactive way ❤️
 ---
 
 ##  Live Demo
- [Click here to view the demo](RaghuDantham9/will-you-be-my-betterhalf)
+ [Click here to view the demo](https://raghudantham9.github.io/will-you-be-my-betterhalf/)
 
 ---
