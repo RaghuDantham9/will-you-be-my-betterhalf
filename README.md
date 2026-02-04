@@ -5,7 +5,7 @@ Perfect for sharing a special message in a fun and interactive way ❤️
 
 ---
 
-## 🚀 Live Demo
-👉 [Click here to view the demo](https://raghudentham9.github.io/will-you-be-my-betterhalf/)
+##  Live Demo
+ Click here to view the demo
 
 ---
